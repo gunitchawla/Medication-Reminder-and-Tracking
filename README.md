@@ -2,7 +2,7 @@
 
 A premium, glassmorphism-styled medication tracking web application built with React and Vite.
 
-![App Screenshot](/Users/gunitchawla/.gemini/antigravity/brain/5ee55a59-d3f9-4ef2-a5a8-99d6b3904c85/app_loaded_1764586785892.png)
+![App Screenshot]('/Users/gunitchawla/Desktop/Medication Tracker.png')
 
 ## Features
 
