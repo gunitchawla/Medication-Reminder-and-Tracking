@@ -2,7 +2,7 @@
 
 > **A premium, intelligent medication tracking assistant built for the modern web.**
 
-![MedTracker Dashboard](public/screenshots/dashboard-preview.png)
+![image alt](https://github.com/gunitchawla/Medication-Reminder-and-Tracking/blob/main/Medication%20Tracker.png?raw=true)
 
 <div align="center">
 
